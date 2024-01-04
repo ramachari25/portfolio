@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "React Admin panel",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a React Admin panel user can visualize data.",
+    "skills": ["React", "React router dom","material ui","sass"],
+    "demo": "https://paneladminreact.netlify.app",
+    "source": "https://github.com/ramachari25/My-personal-projects/tree/master/React%20Admin%20panel"
   },
   {
-    "title": "Project B",
+    "title": "Shopping WebSite",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a Shopping Website with cart Functionality and more.",
+    "skills": ["React", "React router dom","Redux-toolkit","sass"],
+    "demo": "https://trendshoppinghub.netlify.app",
+    "source": "https://github.com/ramachari25/My-personal-projects/tree/master/shoppinghu"
   },
   {
-    "title": "Project C",
+    "title": "Tours and Travels Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project of Tours and Travel website using vanilla javascript with carousels and alot more....",
+    "skills": ["html", "css", "javascript"],
+    "demo": "https://toursandtravells.netlify.app",
+    "source": "https://github.com/ramachari25/My-personal-projects/tree/master/toursandtravels"
   }
 ]

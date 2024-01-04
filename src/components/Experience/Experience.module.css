@@ -117,4 +117,7 @@
     width: 100%;
     gap: 9px;
   }
+  .skill p {
+    font-size: 20px;
+  }
 }
